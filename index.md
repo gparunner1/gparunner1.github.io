@@ -2,10 +2,12 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
-[Project 1 Title](/sample_page)
+[Dimension Reduction](/pdf/Gene_Expression.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+We used two different methods to analyze gene expression data.  Gene expression data can be tricky to work with due to the large number of variables.  We first used elastic net to reduce the dimensionality of the data.  This method worked fairly well.  As a secondary method, we used principal components regression.  Using these two methods, we found a certain subset of genes that were associated with the occurence of cancer.
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
