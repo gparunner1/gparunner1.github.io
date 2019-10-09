@@ -10,24 +10,47 @@
 We used two different methods to analyze gene expression data.  Gene expression data can be tricky to work with due to the large number of variables.  We first used elastic net to reduce the dimensionality of the data.  This method worked fairly well.  As a secondary method, we used principal components regression.  Using these two methods, we found a certain subset of genes that were associated with the occurence of cancer.
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Regression with Spatial Correlation](/pdf/Real_Estate.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+We used two different methods to analyze gene expression data.  Gene expression data can be tricky to work with due to the large number of variables.  We first used elastic net to reduce the dimensionality of the data.  This method worked fairly well.  As a secondary method, we used principal components regression.  Using these two methods, we found a certain subset of genes that were associated with the occurence of cancer.
+
 ---
-[Project 3 Title](http://example.com/)
+[Time Series #1](/pdf/PM.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-
-### Category Name 2
-
-- [Project 1 Title](pdf/sample_presentation.pdf)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+We used two different methods to analyze gene expression data.  Gene expression data can be tricky to work with due to the large number of variables.  We first used elastic net to reduce the dimensionality of the data.  This method worked fairly well.  As a secondary method, we used principal components regression.  Using these two methods, we found a certain subset of genes that were associated with the occurence of cancer.
 
 ---
+[Time Series #2](/pdf/Solar_Case_Study.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+We used two different methods to analyze gene expression data.  Gene expression data can be tricky to work with due to the large number of variables.  We first used elastic net to reduce the dimensionality of the data.  This method worked fairly well.  As a secondary method, we used principal components regression.  Using these two methods, we found a certain subset of genes that were associated with the occurence of cancer.
+
+---
+
+[Stochastic Regression Imputation](/pdf/Employee_Study.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+We used two different methods to analyze gene expression data.  Gene expression data can be tricky to work with due to the large number of variables.  We first used elastic net to reduce the dimensionality of the data.  This method worked fairly well.  As a secondary method, we used principal components regression.  Using these two methods, we found a certain subset of genes that were associated with the occurence of cancer.
+
+---
+
+[Multiple Linear Regression](/pdf/1__Credit_Card_Report.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+We used two different methods to analyze gene expression data.  Gene expression data can be tricky to work with due to the large number of variables.  We first used elastic net to reduce the dimensionality of the data.  This method worked fairly well.  As a secondary method, we used principal components regression.  Using these two methods, we found a certain subset of genes that were associated with the occurence of cancer.
+
+---
+
+[Weighted Multiple Linear Regression](/pdf/Pedagogy.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+We used two different methods to analyze gene expression data.  Gene expression data can be tricky to work with due to the large number of variables.  We first used elastic net to reduce the dimensionality of the data.  This method worked fairly well.  As a secondary method, we used principal components regression.  Using these two methods, we found a certain subset of genes that were associated with the occurence of cancer.
+
+
+---
+
 
 
 
