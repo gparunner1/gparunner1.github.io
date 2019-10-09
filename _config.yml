@@ -3,8 +3,6 @@ logo: "/images/face.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data Science Portfolio 
   <br><br>
-  Second description 
-  <br><br>
   <a href="https://www.linkedin.com/in/gabrielpadams/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
